@@ -26,7 +26,8 @@ _Note: The repositories main branch is `develop`. Make sure you are on the corre
 
 # Features
 
-- Storefront:
+### Storefront:
+
 - [x] Home Page
 - [x] Product Details Page
 - [x] Product Collection Page
