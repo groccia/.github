@@ -10,11 +10,11 @@
 4. [Built With](#build-with)
 5. [Authors](#authors)
 
-# Demos
-
 # Overview
 
 Groccia is a full-stack e-commerce web application allowing users located in Finland to browse and purchase groceries online. The project consists of three main parts: the storefront, the api server, and the content management system. The storefront is built with Next.js and Medusa, the api server is built with Medusa, and the content management system is built with Strapi. The project aims to provide a solution that is modern, responsive, and user-friendly.
+
+# Demos
 
 # Repositories
 
