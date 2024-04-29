@@ -2,6 +2,8 @@
   Groccia
 </h1>
 
+![Homepage](./public/images/HomePage.png)
+
 # Table of Contents
 
 1. [Overview](#overview)
@@ -10,6 +12,7 @@
 4. [Features](#features)
 5. [Built With](#build-with)
 6. [Authors](#authors)
+7. [Screenshots](#screenshots)
 
 # Overview
 
@@ -73,3 +76,29 @@ _Note: The repositories main branch is `develop`. Make sure you are on the corre
 
 - [Nguyen Pham](https://github.com/nguyenfamj)
 - [Thang Phan](https://github.com/Thangphan0102)
+
+# Screenshots
+
+### Home Page
+
+![Homepage](./public/images/HomePage.png)
+
+### Product Details Page
+
+![Product Details Page](./public/images/ProductDetailsPage.png)
+
+### Product Collection Page
+
+![Product Collection Page](./public/images/ProductCollectionPage.png)
+
+### Cart Page
+
+![Cart Page](./public/images/CartPage.png)
+
+### Checkout Page
+
+![Checkout Page](./public/images/CheckoutPage.png)
+
+### Order Confirmation Page
+
+![Order Confirmation Page](./public/images/OrderConfirmationPage.png)
