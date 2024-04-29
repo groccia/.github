@@ -2,7 +2,7 @@
   Groccia
 </h1>
 
-![Homepage](./public/images/HomePage.png)
+![Homepage](https://github.com/groccia/.github/blob/docs/public/images/HomePage.png)
 
 # Table of Contents
 
