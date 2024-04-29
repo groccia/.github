@@ -2,7 +2,7 @@
   Groccia
 </h1>
 
-![Homepage](https://github.com/groccia/.github/blob/docs/public/images/HomePage.png)
+![Homepage](../public/images/HomePage.png)
 
 # Table of Contents
 
@@ -81,24 +81,24 @@ _Note: The repositories main branch is `develop`. Make sure you are on the corre
 
 ### Home Page
 
-![Homepage](./public/images/HomePage.png)
+![Homepage](../public/images/HomePage.png)
 
 ### Product Details Page
 
-![Product Details Page](./public/images/ProductDetailsPage.png)
+![Product Details Page](../public/images/ProductDetailsPage.png)
 
 ### Product Collection Page
 
-![Product Collection Page](./public/images/ProductCollectionPage.png)
+![Product Collection Page](../public/images/ProductCollectionsPage.png)
 
 ### Cart Page
 
-![Cart Page](./public/images/CartPage.png)
+![Cart Page](../public/images/CartPage.png)
 
 ### Checkout Page
 
-![Checkout Page](./public/images/CheckoutPage.png)
+![Checkout Page](../public/images/CheckoutPage.png)
 
 ### Order Confirmation Page
 
-![Order Confirmation Page](./public/images/OrderConfirmationPage.png)
+![Order Confirmation Page](../public/images/ConfirmedOrderPage.png)
